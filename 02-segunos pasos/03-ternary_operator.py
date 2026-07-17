@@ -1,6 +1,6 @@
 #operaor ternario : es una forma de simplificar o por el " if "  " else if " en una sola linea
 
-product=True
+product=False
 
 """if product:
     print("El producto aun esta en existencia ")
